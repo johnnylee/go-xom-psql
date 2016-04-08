@@ -1,2 +1,2 @@
 # go-xom-psql
-Object (not-relational) manager using sqlx and postgresql. 
+Object (not-relational) mapper using sqlx and postgresql. 
